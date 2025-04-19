@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* Fonts */
+  --font-grab-community-solid-en: "Grab Community Solid EN";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-darkslategray: #005339;
+  --color-white: #fff;
+
+  /* Paddings */
+  --padding-18xl: 37px;
+}
